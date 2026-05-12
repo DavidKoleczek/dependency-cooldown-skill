@@ -8,7 +8,7 @@ See [`SKILL.md`](./SKILL.md) for the full instructions.
 
 ## Installation
 
-### Amplifier
+### [Amplifier](https://github.com/microsoft/amplifier
 
 Clone into your Amplifier skills directory:
 
@@ -26,6 +26,12 @@ npx skills add DavidKoleczek/dependency-cooldown-skill
 ```
 
 See [vercel-labs/skills](https://github.com/vercel-labs/skills) for tool details.
+
+## Attribution
+
+- [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
+- [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
+- [We should all be using dependency cooldowns - Simon Willison](https://simonwillison.net/2025/Nov/21/dependency-cooldowns/)
 
 ## License
 
