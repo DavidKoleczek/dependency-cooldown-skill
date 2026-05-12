@@ -1,6 +1,6 @@
 # Dependency Cooldown Skill
 
-An agent skill that configures in a project. A delay (typically 7 days) between when a package version is published and when it can be installed, mitigating most supply chain attacks.
+An agent skill that configures in a project a delay (typically 7 days) between when a package version is published and when it can be installed, mitigating most supply chain attacks.
 
 The skill instructs an agent to survey the project's package managers and update bots, then add cooldown configuration at the package-manager layer (uv, pip, pnpm, npm, yarn, bun, deno, cargo) and/or the update-bot layer.
 
