@@ -8,7 +8,7 @@ See [`SKILL.md`](./SKILL.md) for the full instructions.
 
 ## Installation
 
-### [Amplifier](https://github.com/microsoft/amplifier
+### [Amplifier](https://github.com/microsoft/amplifier)
 
 Clone into your Amplifier skills directory:
 
